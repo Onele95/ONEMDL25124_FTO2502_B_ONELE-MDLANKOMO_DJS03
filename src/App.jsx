@@ -64,7 +64,7 @@ function App() {
       {/* Application header with title and search */}
       <header className="app-header">
         <div className="header-container">
-          <h1>Podcast Discovery</h1>
+          <h1>React Podcast Landing Page</h1>
           <div className="search-container">
             <input
               type="text"
